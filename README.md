@@ -39,7 +39,7 @@ This project focuses on analyzing e-commerce sales data to perform customer segm
 
 4. Run the analysis script:
    ```bash
-   python e_commerce_sales_data_analysis.py
+   python e_commerce_sales_analysis.ipynb
    ```
 
 ## Code Functionality
