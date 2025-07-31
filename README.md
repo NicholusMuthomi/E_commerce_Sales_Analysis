@@ -6,11 +6,11 @@ This project focuses on analyzing e-commerce sales data to perform customer segm
 
 ## Features
 
-- **Data Preprocessing**: Handles missing values, outliers, and irrelevant records to prepare the dataset for analysis.
+- **Data Preprocessing**: Handles missing values, outliers and irrelevant records to prepare the dataset for analysis.
 - **Exploratory Data Analysis (EDA)**: Includes univariate and bivariate analysis to uncover patterns and relationships in the data.
-- **Feature Engineering**: Extracts and transforms features such as recency, tenure, and average return rate to better represent customer behavior.
+- **Feature Engineering**: Extracts and transforms features such as recency, tenure and average return rate to better represent customer behavior.
 - **Customer Segmentation**: Uses K-means clustering to group customers into distinct segments based on their purchasing patterns.
-- **Visualization**: Provides clear visualizations of data distributions, correlations, and clustering results.
+- **Visualization**: Provides clear visualizations of data distributions, correlations and clustering results.
 
 ## Installation
 
